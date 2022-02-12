@@ -37,7 +37,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 
-public class IntStudentInfoSysFinalrev1 {
+public class InternationalStudents {
 
     private static final String dbuser = "admin";
     private static final String dbpassword = "International69";
